@@ -5,9 +5,9 @@ You can click the Preview link to take a look at your changes.
 --->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NguyenLe2004&show_icons=true&theme=transparent)
 
-<a href="https://github.com/uvipen/QuickDraw/">
+<a href="https://github.com/NguyenLe2004/FacialVerification">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenLe2004&repo=FacialVerification&theme=transparent" />
 </a>   
-<a href="https://github.com/uvipen/QuickDraw/">
+<a href="https://github.com/NguyenLe2004/cat-image-generate">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenLe2004&repo=cat-image-generate&theme=transparent" />
 </a>   
